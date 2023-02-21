@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1672798406 source:c:\users\hfcs\desktop\f\database_task\bank_account.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
